@@ -20,8 +20,6 @@ body {
 }
 img {
   width: 100%;
-  background-image: url(img/asics.avif);
-  background-image: linear-gradient(white, black);
 }
 
 p {
