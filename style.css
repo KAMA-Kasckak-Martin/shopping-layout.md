@@ -22,6 +22,11 @@ img {
   width: 100%;
 }
 
+.asi {
+  -webkit-mask-image: linear-gradient(black 30%, transparent);
+  mask-image: linear-gradient(black 30%, transparent);
+}
+
 p {
   opacity: 0.5;
 }
